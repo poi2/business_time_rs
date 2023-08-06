@@ -12,7 +12,9 @@ test = []
 chrono = "0.4"
 chrono-tz = "0.8"
 derive-getters = "0.3"
+derive-new = "0.5"
 getset = "0.1"
+typed-builder = "0.15"
 
 [dev-dependencies]
 rstest = "0.18"
